@@ -1,0 +1,145 @@
+@charset "UTF-8";
+
+#book1{
+    width: 1000px;
+    background-image:url(picture/book1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+border: solid 3px #000000;
+    border-radius: 10px;
+    font-family: arial black;
+}
+
+#book2{
+    width: 1000px;
+    background-image:url(picture/book2.gif);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: arial black;
+     border: solid 3px #000000;
+    border-radius: 10px;
+}
+
+#book3{
+    width: 1000px;
+    background-image:url(picture/book2.gif);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: arial black;
+    border: solid 3px #000000;
+    border-radius: 10px;
+}
+
+#book4{
+    width: 993px;
+    
+    border: solid 3px #000000;
+    font-family: arial black;
+     background-color:#8B0000
+}
+
+#booktop2{
+    width:950px;
+    margin:0 auto;
+    text-align:center;
+    border:solid 1px #333;
+    background-color:#7CFC00
+}
+
+#booktop1{
+    width:980px;
+    margin:0 auto;
+    text-align:center;
+    border:solid 1px #333;
+    background-color:#ffffff
+}
+
+#input{
+    width:980px;
+     font-family: arial black;
+     background-color:#ffffcc;
+          border: solid 3px #33FF00;
+    border-radius: 10px;
+}
+
+#author{
+     width:950px;
+    border: double 5px #4ec4d3;
+}
+
+#com{
+    width:980px;
+     background-image:url(picture/comment1.png);
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#error{
+      width:980px;
+     
+     background-image:url(picture/bookerror1.jpg);
+     background-repeat: no-repeat;
+    background-size: contain;
+    
+     border-radius: 10px;
+    font-family: arial black;
+}
+
+#rental{
+     width:980px;
+     background-image:url(picture/comment1.png);
+     background-repeat: no-repeat;
+    background-size: cover;
+     border-radius: 10px;
+    font-family: arial black;
+}
+
+#bookinfo{
+    width:980px;
+     background-image:url(picture/bookinfo1.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+     border-radius: 10px;
+    font-family: arial black;
+}
+
+#button1{
+    
+    position:relative;
+    top:10px;
+    left:300px; 
+     border-radius: 25px;
+}
+
+#button2{
+     border-radius: 25px;
+     position:relative;
+    top:2px;
+    left:500px;
+}
+
+#button3{
+     border-radius: 25px;
+   position:relative;
+    top:2px;
+    left:293px;  
+}
+
+#button4{
+     border-radius: 25px;
+     position:relative;
+    top:2px;
+    left:293px;
+}
+
+#button5{
+     border-radius: 25px;
+     position:relative;
+    top:2px;
+    left:293px;
+}
+
+
+
