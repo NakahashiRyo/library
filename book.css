@@ -1,0 +1,187 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2022/01/08, 15:21:39
+    Author     : towak
+*/
+
+.book1 {
+    background-color: #4699ca;
+    padding-bottom : 50px;
+  
+}
+.book2{
+    background-color: #8B0000;
+}
+.userid{
+    padding-bottom: 10px;
+}
+.pass{
+    padding-bottom: 15px;
+}
+.booktitle{
+    padding-bottom: 10px;
+}
+.bookauthor{
+    padding-bottom: 15px;
+}
+.top {
+    color: #3aacad;
+    font-size: 80px;
+    font-style: italic;
+}
+.input{
+    background-color: #7CFC00;
+    width: 500px;
+     padding : 30px;
+}
+.sub {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 20px;
+}
+p1{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.button {
+    display: flex;
+    
+    padding-bottom: 20px;
+    width: 50%;
+    margin: 0 auto;
+}
+.new-button{
+    padding-top: 10px;
+}
+
+.button-block{
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.reset-button {
+    padding-top: 10px;
+}
+.check-button{
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.list-button {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.back-button{
+    
+    margin: 0 auto;
+    padding-top: 10px;
+    
+   
+}
+.send-button{
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.set-button {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.search-button {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 40px;
+    
+}
+.return-button{
+    margin: 0 auto;
+    padding: 10px 10px 0 0;
+}
+
+.main-page{
+    padding-bottom: 20px;
+}
+.book-labels{
+    background-color: #FF9872;
+}
+.table-list{
+    background-color: #ff6600;
+}
+.com-list {
+    background-color: #ff6600;
+    width: 70%;
+}
+.rental-list {
+     background-color: #ff6600;
+    width: 70%;
+}
+.gettitle{
+    background-color: #ffffcc;
+    text-align: center;
+    width: 280px;
+}
+.getauthor{
+    background-color: #ffffcc;
+    text-align: center;
+    width: 150px;
+}
+.getheading{
+    background-color: #ffffcc;
+    text-align: center;
+    width: 150px;
+}
+.getpublisher{
+    background-color: #ffffcc;
+    text-align: center;
+    width: 150px;
+}
+.getyear{
+    background-color: #ffffcc;
+    width: 120px;
+    text-align: center;
+}
+.getday{
+    background-color: #ffffcc;
+    text-align: center;
+    width: 100px;
+}
+.getrental{
+    background-color: #ffffcc;
+    text-align: center;
+    width: 60px;
+}
+.getcom {
+     background-color: #ffffcc;
+    text-align: center;
+    width: 280px;
+}
+table th {
+    border: solid 2px;
+    background-color: #99FFFF;
+}
+
+table td{
+    border: solid 2px;
+}
+#number{
+    font-size: 100px;
+    color: #003333;
+    font-weight: 900;
+}
+.author{
+    width: 800px;
+    border: 100px;
+    padding-bottom: 20px;
+}
+
+.data {
+    padding-top: 20px;
+}
+
